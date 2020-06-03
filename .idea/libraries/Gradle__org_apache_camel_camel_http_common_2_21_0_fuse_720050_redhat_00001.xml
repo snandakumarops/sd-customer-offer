@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.camel:camel-http-common:2.21.0.fuse-720050-redhat-00001">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.camel/camel-http-common/2.21.0.fuse-720050-redhat-00001/6bcd864e1a713fba92890f52b80e1f1d9fc4c2fb/camel-http-common-2.21.0.fuse-720050-redhat-00001.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.camel/camel-http-common/2.21.0.fuse-720050-redhat-00001/b21bc0eb2e4f5f6d9141be9e5dcdf55855e618a6/camel-http-common-2.21.0.fuse-720050-redhat-00001-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

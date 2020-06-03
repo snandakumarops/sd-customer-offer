@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.slf4j:jul-to-slf4j:1.7.22.redhat-2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.22.redhat-2/fc740619e05e3593ee01da98d90a6672abf2e288/jul-to-slf4j-1.7.22.redhat-2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.22.redhat-2/6703b245c97f3d958a29b2c5a2983a7e2c75b73b/jul-to-slf4j-1.7.22.redhat-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

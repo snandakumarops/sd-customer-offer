@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.slf4j:log4j-over-slf4j:1.7.22.redhat-2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/log4j-over-slf4j/1.7.22.redhat-2/b8a8d436b36dc124f137098701cc59277323417b/log4j-over-slf4j-1.7.22.redhat-2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/log4j-over-slf4j/1.7.22.redhat-2/5c4b36f7696a3e34355e491ea29239c0e436cab2/log4j-over-slf4j-1.7.22.redhat-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.camel:camel-swagger-java:2.21.0.fuse-720050-redhat-00001">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.camel/camel-swagger-java/2.21.0.fuse-720050-redhat-00001/4007a1cd321478e3323ec010f380e723d38a1b4/camel-swagger-java-2.21.0.fuse-720050-redhat-00001.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.camel/camel-swagger-java/2.21.0.fuse-720050-redhat-00001/7cfd45e5ead73db9b6e8c495ee11132d56ed3a38/camel-swagger-java-2.21.0.fuse-720050-redhat-00001-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

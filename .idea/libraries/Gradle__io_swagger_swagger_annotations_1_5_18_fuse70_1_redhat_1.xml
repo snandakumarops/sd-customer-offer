@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.swagger:swagger-annotations:1.5.18.fuse70-1-redhat-1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.swagger/swagger-annotations/1.5.18.fuse70-1-redhat-1/9fb0672be51f78317d120483ffef2a855cd66e25/swagger-annotations-1.5.18.fuse70-1-redhat-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.swagger/swagger-annotations/1.5.18.fuse70-1-redhat-1/a4d17106201ec0567bf01744ed8a4ce83a2feb47/swagger-annotations-1.5.18.fuse70-1-redhat-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
